@@ -1,0 +1,87 @@
+[
+  {
+    "id": "e2a22055-6df3-4c91-9de3-c0d11f62de0b",
+    "title": "Prepare Q3 Project Presentation",
+    "description": "Create slides for the quarterly review meeting including timeline, key metrics, and roadmap.",
+    "status": "in-progress",
+    "priority": "high",
+    "category": "Work",
+    "dueDate": "2026-07-02",
+    "createdAt": "2026-06-29T10:00:00.000Z",
+    "updatedAt": "2026-06-29T11:30:00.000Z",
+    "subtasks": [
+      {
+        "id": "sub-1",
+        "title": "Gather metrics from sales database",
+        "completed": true
+      },
+      {
+        "id": "sub-2",
+        "title": "Draft roadmap timeline slides",
+        "completed": false
+      },
+      {
+        "id": "sub-3",
+        "title": "Practice presentation and request feedback",
+        "completed": false
+      }
+    ],
+    "notes": "Ensure that the financial data slides are reviewed by the finance team before showing them to the board members. Focus heavily on growth metrics and customer retention rates."
+  },
+  {
+    "id": "8b51d8b6-a212-4eb3-810a-b3334863ab98",
+    "title": "Schedule Annual Health Checkup",
+    "description": "Call the clinic and book a slot for the comprehensive health checkup.",
+    "status": "pending",
+    "priority": "medium",
+    "category": "Health",
+    "dueDate": "2026-07-05",
+    "createdAt": "2026-06-29T09:15:00.000Z",
+    "updatedAt": "2026-06-29T09:15:00.000Z",
+    "subtasks": [
+      {
+        "id": "sub-4",
+        "title": "Find blood work records from last year",
+        "completed": false
+      }
+    ],
+    "notes": "Dr. Sarah's clinic. Preferred times: morning slots on Wednesday or Thursday."
+  },
+  {
+    "id": "2b9a7404-5dbf-47dc-a3bf-568b20914107",
+    "title": "Buy Anniversary Gift & Cards",
+    "description": "Find a thoughtful gift for the upcoming 5th wedding anniversary.",
+    "status": "pending",
+    "priority": "high",
+    "category": "Personal",
+    "dueDate": "2026-06-29",
+    "createdAt": "2026-06-29T08:00:00.000Z",
+    "updatedAt": "2026-06-29T08:00:00.000Z",
+    "subtasks": [],
+    "notes": "Look at the local jewelry shops or book online. Make sure it gets delivered by Friday at the latest!"
+  },
+  {
+    "id": "c1f71df4-ecb4-4b57-a16f-9988ffbc66e1",
+    "title": "Restock Office Supplies",
+    "description": "Purchase printer paper, sticky notes, and whiteboard markers.",
+    "status": "completed",
+    "priority": "low",
+    "category": "Shopping",
+    "dueDate": "2026-06-28",
+    "createdAt": "2026-06-27T14:00:00.000Z",
+    "updatedAt": "2026-06-28T16:00:00.000Z",
+    "subtasks": [
+      {
+        "id": "sub-5",
+        "title": "Printer paper (A4 x 3 packs)",
+        "completed": true
+      },
+      {
+        "id": "sub-6",
+        "title": "Sticky notes and markers",
+        "completed": true
+      }
+    ],
+    "notes": "Office expenses card must be used for payment. Receipt submitted to HR."
+  }
+]

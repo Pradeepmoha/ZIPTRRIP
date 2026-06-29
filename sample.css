@@ -1,0 +1,20 @@
+#container {
+  display: flex;
+  width: 100%; /* Allows flexible parent stretching */
+}
+
+.fixed {
+  flex: 0 0 100px; /* Do not grow, do not shrink, fix exactly at 100px */
+}
+
+.expanding {
+  flex: 1; /* Automatically absorb all remaining available horizontal space */
+}
+
+#container {
+  display: grid;
+  grid-template-columns: 100px 1fr 100px; /* Explicit columns assigned directly */
+  width: 100%;
+}
+
+/* No layout-breaking structural adjustments needed on children classes */
